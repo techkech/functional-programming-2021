@@ -1,10 +1,12 @@
-## Course name
+# Functional Programming
+## Assessment
+Create a data visualisation with d3 based on given data.
 
 # Project title
 
 [link to deploy][screenshot of website]
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9aec17a8-142c-40c1-a2b2-ad3e73f9f652/deploy-status)](https://app.netlify.com/sites/wafs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9aec17a8-142c-40c1-a2b2-ad3e73f9f652/deploy-status)](https://app.netlify.com/sites/functionalprogramming/deploys)
 
 
 <details>
@@ -130,13 +132,25 @@ _What would you like to add (feature wishlist / backlog)?_
 ## 🏫 Assignment
 <details>
   <summary></strong> (click to expand)</summary>
-In this course..
+In this course we were rated on:
+
+- Application of subject matter
+- Understanding
+- Quality
+- Process
 
 ### Learning goals
+This assessment focusses on:
+* goal 1 (learn how to create with libraries)
+* goal 2 (create interactive visualisations from external data)
+* subgoal 1 (read docs)
+* subgoal 2 (write docs)
+* subgoal 5 (manipulate elements)
+* subgoal 6 (load external data)
+* subgoal 7 (transform data)
+* subgoal 8 (use svg)
+* subgoal 9 (use libraries)
 
-- _You can ..._
-- _You can ..._
-- _You can ..._
 
 ### Week 1 - title 🐒
 
@@ -155,8 +169,8 @@ Goal: xxx
 
 ### Rubric
 
-[Rubric- detailed rating of my project](https://github.com/deannabosschert/functional-programming-2021/wiki/Rubric)
-![rubric](https://github.com/deannabosschert/functional-programming-2021/blob/master/src/img/rubric.png)
+[Rubric- detailed rating of my project](https://github.com/techkech/functional-programming-2021/wiki/Rubric)
+![rubric](https://github.com/techkech/functional-programming-2021/blob/master/src/img/rubric.png)
 
 ## ℹ️ Resources
 
@@ -171,6 +185,6 @@ Goal: xxx
 
 ## 🗺️ License
 
-Author: [Deanna Bosschert](https://github.com/deannabosschert) , license by
-[MIT](https://github.com/deannabosschert/functional-programming-2021/blob/master/LICENSE)
+Author: [Deanna Bosschert](https://github.com/techkech) , license by
+[MIT](https://github.com/techkech/functional-programming-2021/blob/master/LICENSE)
 
